@@ -1,4 +1,2 @@
 # hello-world
-The very first repository test.
-
-This is the final test.
+Github successfully connected to ATOM environment.
