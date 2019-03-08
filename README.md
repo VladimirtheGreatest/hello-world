@@ -1,4 +1,4 @@
 # hello-world
 The very first repository test.
 
-I am going to make some changes and test if it works.
+I am testing my Github repository with ATOM.
